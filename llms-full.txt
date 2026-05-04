@@ -1,0 +1,62 @@
+# Granada
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Asentamientos](https://granada.mecanicadesuelos.vip/asentamientos/)
+- [Calicatas Exploratorias](https://granada.mecanicadesuelos.vip/calicatas-exploratorias/)
+- [Capacidad De Carga](https://granada.mecanicadesuelos.vip/capacidad-de-carga/)
+- [Cbr Vial](https://granada.mecanicadesuelos.vip/cbr-vial/)
+- [Cimentaciones](https://granada.mecanicadesuelos.vip/cimentaciones/)
+- [Cimentaciones Sismicas](https://granada.mecanicadesuelos.vip/cimentaciones-sismicas/)
+- [Clasificacion Suelos](https://granada.mecanicadesuelos.vip/clasificacion-suelos/)
+- [Compactacion Dinamica](https://granada.mecanicadesuelos.vip/compactacion-dinamica/)
+- [Compresion Simple](https://granada.mecanicadesuelos.vip/compresion-simple/)
+- [Deep Soil Mixing](https://granada.mecanicadesuelos.vip/deep-soil-mixing/)
+- [Deslizamientos](https://granada.mecanicadesuelos.vip/deslizamientos/)
+- [Dilatometro](https://granada.mecanicadesuelos.vip/dilatometro/)
+- [Drenaje Vial](https://granada.mecanicadesuelos.vip/drenaje-vial/)
+- [Drenes Verticales](https://granada.mecanicadesuelos.vip/drenes-verticales/)
+- [Ensayo Cbr](https://granada.mecanicadesuelos.vip/ensayo-cbr/)
+- [Ensayo Cpt](https://granada.mecanicadesuelos.vip/ensayo-cpt/)
+- [Ensayo Proctor](https://granada.mecanicadesuelos.vip/ensayo-proctor/)
+- [Ensayo Spt](https://granada.mecanicadesuelos.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://granada.mecanicadesuelos.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://granada.mecanicadesuelos.vip/ensayos-in-situ/)
+- [Estabilidad Taludes](https://granada.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Estabilizacion Carreteras](https://granada.mecanicadesuelos.vip/estabilizacion-carreteras/)
+- [Estudio Mecanica Suelos](https://granada.mecanicadesuelos.vip/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://granada.mecanicadesuelos.vip/evaluacion-pavimentos/)
+- [Excavaciones Profundas](https://granada.mecanicadesuelos.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://granada.mecanicadesuelos.vip/excavaciones-subterraneas/)
+- [Exploracion](https://granada.mecanicadesuelos.vip/exploracion/)
+- [Factor Seguridad](https://granada.mecanicadesuelos.vip/factor-seguridad/)
+- [Falla Taludes](https://granada.mecanicadesuelos.vip/falla-taludes/)
+- [Flujos Detritos](https://granada.mecanicadesuelos.vip/flujos-detritos/)
+- [Geofisica](https://granada.mecanicadesuelos.vip/geofisica/)
+- [Geomallas](https://granada.mecanicadesuelos.vip/geomallas/)
+- [Geotecnia Vial](https://granada.mecanicadesuelos.vip/geotecnia-vial/)
+- [Geotextiles](https://granada.mecanicadesuelos.vip/geotextiles/)
+- [Granulometria](https://granada.mecanicadesuelos.vip/granulometria/)
+- [Grouting](https://granada.mecanicadesuelos.vip/grouting/)
+- [Laboratorio](https://granada.mecanicadesuelos.vip/laboratorio/)
+- [Licuefaccion](https://granada.mecanicadesuelos.vip/licuefaccion/)
+- [Losa De Cimentacion](https://granada.mecanicadesuelos.vip/losa-de-cimentacion/)
+- [Masw Vs30](https://granada.mecanicadesuelos.vip/masw-vs30/)
+- [Mejoramiento](https://granada.mecanicadesuelos.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://granada.mecanicadesuelos.vip/microzonificacion-sismica/)
+- [Monitoreo Taludes](https://granada.mecanicadesuelos.vip/monitoreo-taludes/)
+- [Muestreo Inalterado](https://granada.mecanicadesuelos.vip/muestreo-inalterado/)
+- [Muros Contencion](https://granada.mecanicadesuelos.vip/muros-contencion/)
+- [Muros Mse](https://granada.mecanicadesuelos.vip/muros-mse/)
+- [Muros Pantalla](https://granada.mecanicadesuelos.vip/muros-pantalla/)
+- [Permeabilidad Campo](https://granada.mecanicadesuelos.vip/permeabilidad-campo/)
+- [Precarga](https://granada.mecanicadesuelos.vip/precarga/)
+- [Precarga Sobrecarga](https://granada.mecanicadesuelos.vip/precarga-sobrecarga/)
+
+## Contact
+- Website: https://granada.mecanicadesuelos.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
